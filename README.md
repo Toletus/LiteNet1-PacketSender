@@ -2,7 +2,7 @@
 Toletus LiteNet1 communication sample using PacketSender
 
 Software Toletus LiteNet1 manager:
-http://downloads.toletus.com/filedownload.ashx?a=1.0.2017.0602.ToletusGerenciador1.zip
+http://downloads.toletus.com/toletusgerenciador1
 
 Integration sample using PacketSender:
 1.	Download PacketSender (https://packetsender.com);
