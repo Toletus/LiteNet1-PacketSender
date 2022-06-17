@@ -6,4 +6,5 @@ https://downloads.toletus.com/toletusgerenciador1
 
 Integration sample using Packet Sender:
 1.	Download Packet Sender (https://packetsender.com);
-2.	At PacketSender go to menu File > Import Database and import the file packeges-litenet1.ini.
+2.	At PacketSender go to menu File > Import Database
+3.  Import the file packeges-litenet1.ini
